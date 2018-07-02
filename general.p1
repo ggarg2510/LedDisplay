@@ -1,0 +1,86 @@
+Version 3.2 HI-TECH Software Intermediate Code
+[; ;general.h: 4: void *_memchr(const unsigned char *str, unsigned char c, unsigned int n);
+[; ;general.h: 5: void *_memcpy(unsigned char *str1, const unsigned char *str2, unsigned int n);
+[; ;general.h: 6: void _memset(unsigned char *str, unsigned char c, int n);
+[; ;general.h: 7: unsigned char *_strcat(unsigned char *dest, const unsigned char *src);
+[; ;general.h: 8: unsigned char *_strncat(unsigned char *dest, const unsigned char *src, unsigned int n);
+[; ;general.h: 9: unsigned char *_strchr(const unsigned char *str, unsigned char c);
+[; ;general.h: 10: unsigned char *_strcpy(unsigned char *dest, const unsigned char *src);
+[; ;general.h: 11: unsigned char *_strncpy(unsigned char *dest, const unsigned char *src, unsigned int n);
+[; ;general.h: 12: unsigned int _strlen(const unsigned char *str);
+"17 F:\projects\matrix\general.c
+[v __memcpy `(*v  1 ef3`*uc`*Cuc`ui ]
+{
+[; ;general.c: 16: void *_memcpy(unsigned char *str1, const unsigned char *str2, unsigned int n)
+[; ;general.c: 17: {
+[e :U __memcpy ]
+[v _str1 `*uc  1 r1 ]
+[v _str2 `*Cuc  1 r2 ]
+[v _n `ui  1 r3 ]
+[f ]
+"18
+[v _temp_ptr `*uc  1 a ]
+[; ;general.c: 18: unsigned char *temp_ptr=str1;
+[e = _temp_ptr _str1 ]
+[; ;general.c: 19: while(n-- > 0)
+"19
+[e $U 2  ]
+[e :U 3 ]
+[; ;general.c: 20: {
+"20
+{
+[; ;general.c: 21: *str1++ = *str2++;
+"21
+[e = *U ++ _str1 * -> -> 1 `i `x -> -> # *U _str1 `i `x *U ++ _str2 * -> -> 1 `i `x -> -> # *U _str2 `i `x ]
+"22
+}
+[e :U 2 ]
+"19
+[e $ > -- _n -> -> 1 `i `ui -> -> 0 `i `ui 3  ]
+[e :U 4 ]
+[; ;general.c: 22: }
+[; ;general.c: 23: return temp_ptr;
+"23
+[e ) -> _temp_ptr `*v ]
+[e $UE 1  ]
+[; ;general.c: 24: }
+"24
+[e :UE 1 ]
+}
+"27
+[v __memset `(v  1 ef3`*uc`uc`i ]
+{
+[; ;general.c: 26: void _memset(unsigned char *str, unsigned char c, int n)
+[; ;general.c: 27: {
+[e :U __memset ]
+[v _str `*uc  1 r1 ]
+[v _c `uc  1 r2 ]
+[v _n `i  1 r3 ]
+[f ]
+[; ;general.c: 29: while(n!=0)
+"29
+[e $U 6  ]
+[e :U 7 ]
+[; ;general.c: 30: {
+"30
+{
+[; ;general.c: 31: *str = c;
+"31
+[e = *U _str _c ]
+[; ;general.c: 32: n--;
+"32
+[e -- _n -> 1 `i ]
+[; ;general.c: 33: str++;
+"33
+[e ++ _str * -> -> 1 `i `x -> -> # *U _str `i `x ]
+"34
+}
+[e :U 6 ]
+"29
+[e $ != _n -> 0 `i 7  ]
+[e :U 8 ]
+[; ;general.c: 34: }
+[; ;general.c: 36: }
+"36
+[e :UE 5 ]
+}

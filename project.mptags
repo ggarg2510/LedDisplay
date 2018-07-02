@@ -1,0 +1,224 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+Arial_Rounded_MT_Bold20x16	F:\projects\matrix\font.c	1084;"	v	line:1084
+Back	F:\projects\matrix\ps2_kbd.c	517;"	f	line:517	signature:(unsigned char cur_loc, unsigned char Buffsize)
+Back	F:\projects\matrix\ps2_kbd.h	199;"	p	line:199	signature:(unsigned char cur_loc, unsigned char Buffsize)
+COL_CLK::RD3	F:\projects\matrix\PIC16f887_interface.h	14;"	d	line:14
+COL_DATA1::RC1	F:\projects\matrix\PIC16f887_interface.h	8;"	d	line:8
+COL_DATA2::RC2	F:\projects\matrix\PIC16f887_interface.h	9;"	d	line:9
+COL_ENB::RD1	F:\projects\matrix\PIC16f887_interface.h	12;"	d	line:12
+COL_LAT::RD0	F:\projects\matrix\PIC16f887_interface.h	11;"	d	line:11
+COL_RSTB::RD2	F:\projects\matrix\PIC16f887_interface.h	13;"	d	line:13
+CapsKey	F:\projects\matrix\ps2_kbd.h	179;"	m	line:179	struct:kbd_vars
+EE_STR_ADD::0x00	F:\projects\matrix\LDM.h	41;"	d	line:41
+Ext_key	F:\projects\matrix\ps2_kbd.c	120;"	v	line:120
+ExtenKey	F:\projects\matrix\ps2_kbd.h	177;"	m	line:177	struct:kbd_vars
+ISR	F:\projects\matrix\main.c	13;"	f	line:13
+KBD_APPS::132	F:\projects\matrix\ps2_kbd.h	58;"	d	line:58
+KBD_BACKSPACE::18	F:\projects\matrix\ps2_kbd.h	26;"	d	line:26
+KBD_CALC::148	F:\projects\matrix\ps2_kbd.h	77;"	d	line:77
+KBD_CAPS::0X58	F:\projects\matrix\ps2_kbd.h	29;"	d	line:29
+KBD_CLK::RB0	F:\projects\matrix\PIC16f887_interface.h	22;"	d	line:22
+KBD_DATA::RB1	F:\projects\matrix\PIC16f887_interface.h	23;"	d	line:23
+KBD_DELETE::26	F:\projects\matrix\ps2_kbd.h	45;"	d	line:45
+KBD_DOWN::31	F:\projects\matrix\ps2_kbd.h	50;"	d	line:50
+KBD_EMAIL::147	F:\projects\matrix\ps2_kbd.h	75;"	d	line:75
+KBD_END::27	F:\projects\matrix\ps2_kbd.h	46;"	d	line:46
+KBD_ENTER::16	F:\projects\matrix\ps2_kbd.h	24;"	d	line:24
+KBD_ESC::17	F:\projects\matrix\ps2_kbd.h	25;"	d	line:25
+KBD_F10::9	F:\projects\matrix\ps2_kbd.h	16;"	d	line:16
+KBD_F11::10	F:\projects\matrix\ps2_kbd.h	17;"	d	line:17
+KBD_F12::11	F:\projects\matrix\ps2_kbd.h	18;"	d	line:18
+KBD_F1::0	F:\projects\matrix\ps2_kbd.h	7;"	d	line:7
+KBD_F2::1	F:\projects\matrix\ps2_kbd.h	8;"	d	line:8
+KBD_F3::2	F:\projects\matrix\ps2_kbd.h	9;"	d	line:9
+KBD_F4::3	F:\projects\matrix\ps2_kbd.h	10;"	d	line:10
+KBD_F5::4	F:\projects\matrix\ps2_kbd.h	11;"	d	line:11
+KBD_F6::5	F:\projects\matrix\ps2_kbd.h	12;"	d	line:12
+KBD_F7::6	F:\projects\matrix\ps2_kbd.h	13;"	d	line:13
+KBD_F8::7	F:\projects\matrix\ps2_kbd.h	14;"	d	line:14
+KBD_F9::8	F:\projects\matrix\ps2_kbd.h	15;"	d	line:15
+KBD_HOME::24	F:\projects\matrix\ps2_kbd.h	43;"	d	line:43
+KBD_INSERT::23	F:\projects\matrix\ps2_kbd.h	42;"	d	line:42
+KBD_KP_::/134	F:\projects\matrix\ps2_kbd.h	60;"	d	line:60
+KBD_KP_ADD::160	F:\projects\matrix\ps2_kbd.h	36;"	d	line:36
+KBD_KP_DOT::161	F:\projects\matrix\ps2_kbd.h	37;"	d	line:37
+KBD_KP_ENTER::135	F:\projects\matrix\ps2_kbd.h	61;"	d	line:61
+KBD_KP_MUL::158	F:\projects\matrix\ps2_kbd.h	34;"	d	line:34
+KBD_KP_SUB::159	F:\projects\matrix\ps2_kbd.h	35;"	d	line:35
+KBD_LEFT::30	F:\projects\matrix\ps2_kbd.h	49;"	d	line:49
+KBD_L_ALT::14	F:\projects\matrix\ps2_kbd.h	22;"	d	line:22
+KBD_L_CNTRL::13	F:\projects\matrix\ps2_kbd.h	21;"	d	line:21
+KBD_L_GUI::128	F:\projects\matrix\ps2_kbd.h	54;"	d	line:54
+KBD_L_SHIFT::0X12	F:\projects\matrix\ps2_kbd.h	20;"	d	line:20
+KBD_MEDIA_SEL::146	F:\projects\matrix\ps2_kbd.h	74;"	d	line:74
+KBD_MUTE::143	F:\projects\matrix\ps2_kbd.h	71;"	d	line:71
+KBD_MY_COMP::149	F:\projects\matrix\ps2_kbd.h	78;"	d	line:78
+KBD_NUM::157	F:\projects\matrix\ps2_kbd.h	33;"	d	line:33
+KBD_NXT_TRACK::139	F:\projects\matrix\ps2_kbd.h	67;"	d	line:67
+KBD_PGDN::28	F:\projects\matrix\ps2_kbd.h	47;"	d	line:47
+KBD_PGUP::25	F:\projects\matrix\ps2_kbd.h	44;"	d	line:44
+KBD_PLAY_PAUSE::142	F:\projects\matrix\ps2_kbd.h	70;"	d	line:70
+KBD_POWER::136	F:\projects\matrix\ps2_kbd.h	63;"	d	line:63
+KBD_PRE_TRACK::140	F:\projects\matrix\ps2_kbd.h	68;"	d	line:68
+KBD_PRTSCR::133	F:\projects\matrix\ps2_kbd.h	59;"	d	line:59
+KBD_RIGHT::162	F:\projects\matrix\ps2_kbd.h	51;"	d	line:51
+KBD_R_ALT::131	F:\projects\matrix\ps2_kbd.h	57;"	d	line:57
+KBD_R_CNTRL::129	F:\projects\matrix\ps2_kbd.h	55;"	d	line:55
+KBD_R_GUI::130	F:\projects\matrix\ps2_kbd.h	56;"	d	line:56
+KBD_R_SHIFT::0X59	F:\projects\matrix\ps2_kbd.h	23;"	d	line:23
+KBD_SCROLL::22	F:\projects\matrix\ps2_kbd.h	30;"	d	line:30
+KBD_SLEEP::137	F:\projects\matrix\ps2_kbd.h	64;"	d	line:64
+KBD_STOP::141	F:\projects\matrix\ps2_kbd.h	69;"	d	line:69
+KBD_TAB::20	F:\projects\matrix\ps2_kbd.h	28;"	d	line:28
+KBD_UP::29	F:\projects\matrix\ps2_kbd.h	48;"	d	line:48
+KBD_VOL_DOWN::145	F:\projects\matrix\ps2_kbd.h	73;"	d	line:73
+KBD_VOL_UP::144	F:\projects\matrix\ps2_kbd.h	72;"	d	line:72
+KBD_WAKE::138	F:\projects\matrix\ps2_kbd.h	65;"	d	line:65
+KBD_WWW_BACK::152	F:\projects\matrix\ps2_kbd.h	82;"	d	line:82
+KBD_WWW_FAVORITES::156	F:\projects\matrix\ps2_kbd.h	86;"	d	line:86
+KBD_WWW_FORWARD::153	F:\projects\matrix\ps2_kbd.h	83;"	d	line:83
+KBD_WWW_HOME::151	F:\projects\matrix\ps2_kbd.h	81;"	d	line:81
+KBD_WWW_REFRESH::155	F:\projects\matrix\ps2_kbd.h	85;"	d	line:85
+KBD_WWW_SEARCH::150	F:\projects\matrix\ps2_kbd.h	80;"	d	line:80
+KBD_WWW_STOP::154	F:\projects\matrix\ps2_kbd.h	84;"	d	line:84
+LEAD_TAIL_SPACES::7	F:\projects\matrix\LDM.h	42;"	d	line:42
+MAX_QUEUE_SIZE::5	F:\projects\matrix\ps2_kbd.h	4;"	d	line:4
+NULL::0	F:\projects\matrix\general.h	2;"	d	line:2
+NoOfBytes	F:\projects\matrix\main.c	11;"	v	line:11
+PS2Active	F:\projects\matrix\ps2_kbd.h	180;"	m	line:180	struct:kbd_vars
+RESET_KEYBUFFER::inptr=outptr	F:\projects\matrix\ps2_kbd.h	171;"	d	line:171
+ROW_CLK::RD5	F:\projects\matrix\PIC16f887_interface.h	17;"	d	line:17
+ROW_DATA1::RC0	F:\projects\matrix\PIC16f887_interface.h	6;"	d	line:6
+ROW_DATA2::RC3	F:\projects\matrix\PIC16f887_interface.h	7;"	d	line:7
+ROW_ENB::RD7	F:\projects\matrix\PIC16f887_interface.h	19;"	d	line:19
+ROW_LAT::RD6	F:\projects\matrix\PIC16f887_interface.h	18;"	d	line:18
+ROW_RSTB::RD4	F:\projects\matrix\PIC16f887_interface.h	16;"	d	line:16
+Release	F:\projects\matrix\ps2_kbd.h	176;"	m	line:176	struct:kbd_vars
+ShiftChar	F:\projects\matrix\ps2_kbd.h	181;"	m	line:181	struct:kbd_vars
+ShiftKey	F:\projects\matrix\ps2_kbd.h	178;"	m	line:178	struct:kbd_vars
+Shift_key	F:\projects\matrix\ps2_kbd.c	168;"	v	line:168
+Started	F:\projects\matrix\ps2_kbd.h	175;"	m	line:175	struct:kbd_vars
+TOTALBYTES_ADD::101	F:\projects\matrix\LDM.h	40;"	d	line:40
+_PS2_KBD_H	F:\projects\matrix\ps2_kbd.h	3;"	d	line:3
+_XTAL_FREQ::20000000	F:\projects\matrix\PIC16f887_interface.h	4;"	d	line:4
+_memchr	F:\projects\matrix\general.h	4;"	p	line:4	signature:(const unsigned char *str, unsigned char c, unsigned int n)
+_memcpy	F:\projects\matrix\general.c	16;"	f	line:16	signature:(unsigned char *str1, const unsigned char *str2, unsigned int n)
+_memcpy	F:\projects\matrix\general.h	5;"	p	line:5	signature:(unsigned char *str1, const unsigned char *str2, unsigned int n)
+_memset	F:\projects\matrix\general.c	26;"	f	line:26	signature:(unsigned char *str, unsigned char c, int n)
+_memset	F:\projects\matrix\general.h	6;"	p	line:6	signature:(unsigned char *str, unsigned char c, int n)
+_strcat	F:\projects\matrix\general.h	7;"	p	line:7	signature:(unsigned char *dest, const unsigned char *src)
+_strchr	F:\projects\matrix\general.h	9;"	p	line:9	signature:(const unsigned char *str, unsigned char c)
+_strcpy	F:\projects\matrix\general.h	10;"	p	line:10	signature:(unsigned char *dest, const unsigned char *src)
+_strlen	F:\projects\matrix\general.h	12;"	p	line:12	signature:(const unsigned char *str)
+_strncat	F:\projects\matrix\general.h	8;"	p	line:8	signature:(unsigned char *dest, const unsigned char *src, unsigned int n)
+_strncpy	F:\projects\matrix\general.h	11;"	p	line:11	signature:(unsigned char *dest, const unsigned char *src, unsigned int n)
+address	F:\projects\matrix\ps2_kbd.c	520;"	l	line:520
+bitVars	F:\projects\matrix\ps2_kbd.c	15;"	v	line:15
+bit_count	F:\projects\matrix\ps2_kbd.c	17;"	v	line:17
+charUpdate	F:\projects\matrix\LDM.c	64;"	f	line:64
+charUpdate	F:\projects\matrix\LDM.h	60;"	p	line:60	signature:()
+char_cntrl	F:\projects\matrix\LDM.c	11;"	v	line:11
+char_count	F:\projects\matrix\LDM.h	47;"	m	line:47	struct:character
+char_length	F:\projects\matrix\LDM.h	48;"	m	line:48	struct:character
+charac	F:\projects\matrix\LDM.c	66;"	l	line:66
+character	F:\projects\matrix\LDM.h	45;"	s	line:45
+clr_disp	F:\projects\matrix\LDM.c	157;"	f	line:157
+clr_disp	F:\projects\matrix\LDM.h	64;"	p	line:64	signature:()
+col	F:\projects\matrix\LDM.c	70;"	l	line:70
+count	F:\projects\matrix\LDM.c	129;"	l	line:129
+count	F:\projects\matrix\ps2_kbd.c	379;"	l	line:379
+cursor_i	F:\projects\matrix\ps2_kbd.c	373;"	l	line:373
+data	F:\projects\matrix\ps2_kbd.c	260;"	l	line:260
+data_ptr	F:\projects\matrix\LDM.c	128;"	l	line:128
+decode_key	F:\projects\matrix\ps2_kbd.c	195;"	f	line:195	signature:(unsigned char data)
+decode_key	F:\projects\matrix\ps2_kbd.h	191;"	p	line:191	signature:(unsigned char data)
+delay	F:\projects\matrix\main.c	16;"	l	line:16	file:
+dispRam1	F:\projects\matrix\LDM.c	8;"	v	line:8
+dispRam2	F:\projects\matrix\LDM.c	9;"	v	line:9
+display_str	F:\projects\matrix\ps2_kbd.c	375;"	l	line:375
+eeprom_str_read	F:\projects\matrix\eeprom.c	13;"	f	line:13	signature:(unsigned char *ptr, unsigned char address, unsigned char length)
+eeprom_str_read	F:\projects\matrix\eeprom.h	6;"	p	line:6	signature:(unsigned char *ptr, unsigned char address, unsigned char length)
+eeprom_str_write	F:\projects\matrix\eeprom.c	4;"	f	line:4	signature:(unsigned char *ptr, unsigned char address, unsigned char length)
+eeprom_str_write	F:\projects\matrix\eeprom.h	5;"	p	line:5	signature:(unsigned char *ptr, unsigned char address, unsigned char length)
+fillRAM	F:\projects\matrix\LDM.c	146;"	f	line:146	signature:(unsigned char col, unsigned int data)
+fillRAM	F:\projects\matrix\LDM.h	63;"	p	line:63	signature:(unsigned char col, unsigned int data)
+fill_kbd_buff	F:\projects\matrix\ps2_kbd.c	239;"	f	line:239	signature:(unsigned char data)
+fill_kbd_buff	F:\projects\matrix\ps2_kbd.h	192;"	p	line:192	signature:(unsigned char data)
+font_5X7	F:\projects\matrix\font.c	111;"	v	line:111
+font_data	F:\projects\matrix\LDM.c	130;"	l	line:130
+font_data	F:\projects\matrix\ps2_kbd.c	356;"	l	line:356
+getKey	F:\projects\matrix\ps2_kbd.c	258;"	f	line:258
+getKey	F:\projects\matrix\ps2_kbd.h	196;"	p	line:196	signature:()
+get_Arial_Rounded_MT_Bold15x16	F:\projects\matrix\font.c	1184;"	f	line:1184	signature:(unsigned char byte)
+get_Arial_Rounded_MT_Bold15x16	F:\projects\matrix\font.h	5;"	p	line:5	signature:(unsigned char byte)
+get_Berlin_Sans_FB_Demi12x13	F:\projects\matrix\font.h	6;"	p	line:6	signature:(unsigned char byte)
+get_Bodoni_MT12x13	F:\projects\matrix\font.h	7;"	p	line:7	signature:(unsigned char byte)
+get_Calibri12x11	F:\projects\matrix\font.h	8;"	p	line:8	signature:(unsigned char byte)
+get_font_5X7	F:\projects\matrix\font.c	314;"	f	line:314	signature:(unsigned char byte)
+get_font_5X7	F:\projects\matrix\font.h	9;"	p	line:9	signature:(unsigned char byte)
+i	F:\projects\matrix\LDM.c	109;"	l	line:109
+i	F:\projects\matrix\LDM.c	127;"	l	line:127
+i	F:\projects\matrix\LDM.c	16;"	l	line:16
+i	F:\projects\matrix\LDM.c	33;"	l	line:33
+i	F:\projects\matrix\LDM.c	67;"	l	line:67
+i	F:\projects\matrix\eeprom.c	15;"	l	line:15
+i	F:\projects\matrix\eeprom.c	6;"	l	line:6
+i	F:\projects\matrix\main.c	16;"	l	line:16	file:
+i	F:\projects\matrix\ps2_kbd.c	197;"	l	line:197
+i	F:\projects\matrix\ps2_kbd.c	355;"	l	line:355
+inptr	F:\projects\matrix\ps2_kbd.c	11;"	v	line:11
+isKeyLeft	F:\projects\matrix\ps2_kbd.h	194;"	p	line:194	signature:()
+j	F:\projects\matrix\LDM.c	72;"	l	line:72
+kbd	F:\projects\matrix\ps2_kbd.c	265;"	f	line:265
+kbd	F:\projects\matrix\ps2_kbd.h	197;"	p	line:197	signature:()
+kbd_byte	F:\projects\matrix\ps2_kbd.c	16;"	v	line:16
+kbd_queue	F:\projects\matrix\ps2_kbd.c	10;"	v	line:10
+kbd_vars	F:\projects\matrix\ps2_kbd.h	173;"	s	line:173
+key	F:\projects\matrix\ps2_kbd.c	22;"	v	line:22
+key	F:\projects\matrix\ps2_kbd.c	369;"	l	line:369
+key	F:\projects\matrix\ps2_kbd.c	532;"	l	line:532
+keybrdInput	F:\projects\matrix\ps2_kbd.c	367;"	f	line:367
+keybrdInput	F:\projects\matrix\ps2_kbd.h	198;"	p	line:198	signature:()
+main	F:\projects\matrix\main.c	77;"	f	line:77
+max_i	F:\projects\matrix\ps2_kbd.c	374;"	l	line:374
+max_len	F:\projects\matrix\ps2_kbd.c	372;"	l	line:372
+min_i	F:\projects\matrix\ps2_kbd.c	376;"	l	line:376
+offset_i	F:\projects\matrix\ps2_kbd.c	377;"	l	line:377
+outptr	F:\projects\matrix\ps2_kbd.c	11;"	v	line:11
+pos	F:\projects\matrix\font.c	1186;"	l	line:1186
+pos	F:\projects\matrix\font.c	316;"	l	line:316
+ptr	F:\projects\matrix\LDM.c	68;"	l	line:68
+putKey	F:\projects\matrix\ps2_kbd.c	252;"	f	line:252	signature:(unsigned char key)
+putKey	F:\projects\matrix\ps2_kbd.h	195;"	p	line:195	signature:(unsigned char key)
+putRowData	F:\projects\matrix\LDM.c	14;"	f	line:14	signature:(unsigned int data1, unsigned int data2)
+putRowData	F:\projects\matrix\LDM.h	58;"	p	line:58	signature:(unsigned int data1, unsigned int data2)
+put_cursor	F:\projects\matrix\ps2_kbd.c	353;"	f	line:353	signature:(unsigned char loc)
+put_cursor	F:\projects\matrix\ps2_kbd.h	202;"	p	line:202	signature:(unsigned char loc)
+refresh_display	F:\projects\matrix\LDM.c	31;"	f	line:31
+refresh_display	F:\projects\matrix\LDM.h	59;"	p	line:59	signature:()
+reset_keyBuffer	F:\projects\matrix\ps2_kbd.h	193;"	p	line:193	signature:()
+right_side	F:\projects\matrix\LDM.c	10;"	v	line:10
+screenShift	F:\projects\matrix\LDM.c	107;"	f	line:107
+screenShift	F:\projects\matrix\LDM.h	61;"	p	line:61	signature:()
+select_scrll_speed	F:\projects\matrix\ps2_kbd.c	530;"	f	line:530
+select_scrll_speed	F:\projects\matrix\ps2_kbd.h	205;"	p	line:205	signature:()
+size	F:\projects\matrix\LDM.c	71;"	l	line:71
+small_font_disp	F:\projects\matrix\LDM.c	125;"	f	line:125	signature:(unsigned char *ptr, unsigned char length, unsigned char line_no)
+small_font_disp	F:\projects\matrix\LDM.h	62;"	p	line:62	signature:(unsigned char *ptr, unsigned char length, unsigned char line_no)
+speed_selected	F:\projects\matrix\ps2_kbd.c	533;"	l	line:533
+temp	F:\projects\matrix\LDM.c	110;"	l	line:110
+temp	F:\projects\matrix\LDM.c	69;"	l	line:69
+tempChar	F:\projects\matrix\ps2_kbd.c	519;"	l	line:519
+temp_ptr	F:\projects\matrix\general.c	18;"	l	line:18
+test	F:\projects\matrix\LDM.h	57;"	p	line:57	signature:()
+totalChar	F:\projects\matrix\ps2_kbd.c	378;"	l	line:378
+wait	F:\projects\matrix\main.c	79;"	l	line:79
+wait	F:\projects\matrix\ps2_kbd.c	370;"	l	line:370
+wait	F:\projects\matrix\ps2_kbd.c	534;"	l	line:534
